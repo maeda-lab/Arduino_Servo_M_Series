@@ -125,8 +125,8 @@ class Mseries {
 };
 
 
-int max_uSec = 2100;
-int min_uSec = 900;
+int max_uSec = 1750; // 90deg
+int min_uSec = 1000; // 0 deg
 //int max_pos = 120;
 //int min_pos = 0;
 
